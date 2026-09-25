@@ -5,11 +5,11 @@
 </p>
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/vino-mp"><img src="https://cdn.simpleicons.org/linkedin/0A66C2" width="42" height="42" alt="LinkedIn"/></a>&nbsp;&nbsp;
-  <a href="https://www.instagram.com/mp.vino.18002"><img src="https://cdn.simpleicons.org/instagram/E4405F" width="42" height="42" alt="Instagram"/></a>&nbsp;&nbsp;
-  <a href="https://p-vinothkumar-ds-portfolio.netlify.app"><img src="https://cdn.simpleicons.org/netlify/00C7B7" width="42" height="42" alt="Portfolio"/></a>&nbsp;&nbsp;
-  <a href="https://github.com/vinothkumarp8090-glitch"><img src="https://cdn.simpleicons.org/github/ffffff" width="42" height="42" alt="GitHub"/></a>&nbsp;&nbsp;
-  <a href="mailto:vinothkumarp8090@gmail.com"><img src="https://cdn.simpleicons.org/gmail/EA4335" width="42" height="42" alt="Email"/></a>
+  <a href="https://www.linkedin.com/in/vino-mp"><img src="https://skillicons.dev/icons?i=linkedin" width="48" height="48" alt="LinkedIn"/></a>&nbsp;&nbsp;
+  <a href="https://www.instagram.com/mp.vino.18002"><img src="https://skillicons.dev/icons?i=instagram" width="48" height="48" alt="Instagram"/></a>&nbsp;&nbsp;
+  <a href="https://p-vinothkumar-ds-portfolio.netlify.app"><img src="https://img.icons8.com/fluency/48/domain.png" width="48" height="48" alt="Portfolio"/></a>&nbsp;&nbsp;
+  <a href="https://github.com/vinothkumarp8090-glitch"><img src="https://skillicons.dev/icons?i=github" width="48" height="48" alt="GitHub"/></a>&nbsp;&nbsp;
+  <a href="mailto:vinothkumarp8090@gmail.com"><img src="https://skillicons.dev/icons?i=gmail" width="48" height="48" alt="Email"/></a>
 </p>
 
 ---
