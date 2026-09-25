@@ -1,9 +1,5 @@
 <div align="center">
 
-<img src="./profile-banner.png" width="100%" alt="Vinothkumar P - Data Scientist | Data Analyst | AI Developer">
-
-<br><br>
-
 # 👋 Hi, I'm Vinothkumar P
 
 ### 🎯 Data Scientist | Data Analyst | AI Developer
@@ -58,7 +54,6 @@ Machine Learning
 AI / RAG / LLM
    ↓
 Real-World Solution
-
 🚀 What I Focus On
 📊 Data Science & Data Analytics
 🤖 Machine Learning
@@ -88,7 +83,7 @@ An ensemble machine learning project designed to detect fraudulent credit-card t
 
 Technologies
 
-Python Pandas Scikit-learn Random Forest XGBoost Gradient Boosting
+Python Pandas Scikit-learn Random Forest XGBoost Gradient Boosting SMOTE
 
 🤖 RAG-Based Company Policy Chatbot
 
@@ -117,19 +112,19 @@ Python Machine Learning Pandas Data Visualization
        🔎 EDA
           │
           ▼
-      📊 VISUALIZATION
+   📊 VISUALIZATION
           │
           ▼
-      🤖 MACHINE LEARNING
+ 🤖 MACHINE LEARNING
           │
           ▼
-       🧠 AI / RAG
+      🧠 AI / RAG
           │
           ▼
      🚀 DEPLOYMENT
           │
           ▼
-    💡 BUSINESS VALUE
+   💡 BUSINESS VALUE
 </div>
 🎯 Career Interests
 <div align="center">
@@ -144,6 +139,7 @@ Discipline in sports. Precision in data. Intelligence in AI.
 
 I believe the same principles that drive performance in sports — consistency, analysis, strategy and continuous improvement — can be applied to Data Science and AI.
 
+<div align="center">
 🏏 Discipline
      +
 📊 Data
@@ -153,6 +149,7 @@ I believe the same principles that drive performance in sports — consistency, 
 💡 Creativity
      =
 🚀 Impact
+</div>
 🌐 Connect With Me
 <div align="center"> <a href="https://www.linkedin.com/in/vino-mp"> <img src="https://img.shields.io/badge/LinkedIn-vino--mp-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"> </a>
 
