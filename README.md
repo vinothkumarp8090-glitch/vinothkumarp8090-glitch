@@ -1,21 +1,15 @@
-<h1 align="center">👋 Hi, I'm Vinothkumar P</h1>
-
-<h3 align="center">🎯 Data Scientist | Data Analyst | AI Developer</h3>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,50:203a43,100:2c5364&height=220&section=header&text=VINOTHKUMAR%20P&fontSize=48&fontColor=ffffff&fontAlignY=38&animation=fadeIn" />
 
 <p align="center">
-  <i>Turning Data Into Intelligence • Building ML Models • Creating AI Solutions</i>
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=800&color=61DAFB&center=true&vCenter=true&background=0D1117&width=600&height=45&lines=Data+Scientist;Data+Analyst;AI+Developer;Turning+Data+Into+Intelligence" />
 </p>
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/vino-mp"><img src="https://img.shields.io/badge/LinkedIn-CONNECT-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
-  <a href="https://p-vinothkumar-ds-portfolio.netlify.app"><img src="https://img.shields.io/badge/Portfolio-VISIT-6f42c1?style=for-the-badge&logo=googlechrome&logoColor=white" /></a>
-  <a href="mailto:vinothkumarp8090@gmail.com"><img src="https://img.shields.io/badge/Email-CONTACT-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
-  <a href="https://www.instagram.com/mp.vino.18002"><img src="https://img.shields.io/badge/Instagram-FOLLOW-E4405F?style=for-the-badge&logo=instagram&logoColor=white" /></a>
-  <a href="https://github.com/vinothkumarp8090-glitch"><img src="https://img.shields.io/badge/GitHub-PROFILE-181717?style=for-the-badge&logo=github&logoColor=white" /></a>
-</p>
-
-<p align="center">
-  📞 <b>6369509322</b> &nbsp;|&nbsp; 📧 vinothkumarp8090@gmail.com
+  <a href="https://www.linkedin.com/in/vino-mp"><img src="https://cdn.simpleicons.org/linkedin/0A66C2" width="42" height="42" alt="LinkedIn"/></a>&nbsp;&nbsp;
+  <a href="https://www.instagram.com/mp.vino.18002"><img src="https://cdn.simpleicons.org/instagram/E4405F" width="42" height="42" alt="Instagram"/></a>&nbsp;&nbsp;
+  <a href="https://p-vinothkumar-ds-portfolio.netlify.app"><img src="https://cdn.simpleicons.org/netlify/00C7B7" width="42" height="42" alt="Portfolio"/></a>&nbsp;&nbsp;
+  <a href="https://github.com/vinothkumarp8090-glitch"><img src="https://cdn.simpleicons.org/github/ffffff" width="42" height="42" alt="GitHub"/></a>&nbsp;&nbsp;
+  <a href="mailto:vinothkumarp8090@gmail.com"><img src="https://cdn.simpleicons.org/gmail/EA4335" width="42" height="42" alt="Email"/></a>
 </p>
 
 ---
@@ -89,10 +83,15 @@ Real-World Solution
 
 **Big Data & Tools**
 
+![PySpark](https://img.shields.io/badge/PySpark-E25A1C?style=for-the-badge&logo=apachespark&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
 ![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white)
 ![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white)
+![Google Colab](https://img.shields.io/badge/Google_Colab-F9AB00?style=for-the-badge&logo=googlecolab&logoColor=white)
+![Databricks](https://img.shields.io/badge/Databricks-FF3621?style=for-the-badge&logo=databricks&logoColor=white)
+![Groq](https://img.shields.io/badge/Groq_API-F55036?style=for-the-badge&logo=groq&logoColor=white)
+![Cursor](https://img.shields.io/badge/Cursor-000000?style=for-the-badge&logo=cursor&logoColor=white)
 
 ---
 
@@ -130,9 +129,13 @@ A machine-learning-based stock prediction and visualization dashboard.
   📊 Data + ⚙️ Algorithms + 💡 Creativity = ⭐ Impact
 </p>
 
+---
+
 <p align="center">
-  <a href="https://www.linkedin.com/in/vino-mp">LinkedIn</a> •
-  <a href="https://p-vinothkumar-ds-portfolio.netlify.app">Portfolio</a> •
-  <a href="https://github.com/vinothkumarp8090-glitch">GitHub</a> •
-  <a href="https://www.instagram.com/mp.vino.18002">Instagram</a>
+  <img src="https://github-readme-stats.vercel.app/api?username=vinothkumarp8090-glitch&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" width="49%" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=vinothkumarp8090-glitch&theme=tokyonight&hide_border=true" width="49%" />
+</p>
+
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:2c5364,50:203a43,100:0f2027&height=100&section=footer" width="100%"/>
 </p>
