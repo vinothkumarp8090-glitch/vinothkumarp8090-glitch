@@ -117,32 +117,6 @@ Data → Insights → Models → AI → Impact
 
 <br>
 
-⭐ Thanks for visiting my profile!
-
-</div> ```
-⚠️ One important thing before you paste
-
-Your current broken image at the top is happening because:
-
-<img src="./profile-banner.png" width="100%"/>
-
-is looking for profile-banner.png, but that image hasn't been uploaded yet.
-
-So do these 3 steps in this order:
-
-1. Paste the code above into README.md → Commit changes
-
-2. Go to:
-
-Add file → Upload files
-
-and upload your actual banner image with the name:
-
-profile-banner.png
-
-3. Upload your resume the same way:
-
-resume.pdf
 
 Then this button:
 
